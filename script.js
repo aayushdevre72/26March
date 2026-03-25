@@ -122,15 +122,15 @@ const chatMessages = [
   { sender: 'other', text: 'Hehe hiiii 😄', time: '09:59 AM' },
   { sender: 'me', text: 'Why do you sound extra happy today? 🤨✨', time: '09:59 AM' },
   { sender: 'other', text: 'I wonder whyyy 😏', time: '10:00 AM' },
-  { sender: 'me', text: 'Wait… is it because someone turned older today? 👀🎂', time: '10:00 AM' },
-  { sender: 'other', text: 'OLDER?? EXCUSE ME 😤😂', time: '10:01 AM' },
+  { sender: 'me', text: 'Wait… is it because someone turned 20 today? 👀🎂', time: '10:00 AM' },
+  { sender: 'other', text: 'OLDER?? EXCUSE ME i am already older than you 😤😂', time: '10:01 AM' },
   { sender: 'me', text: 'Okay okay… wiser, prettier, cooler 😌💅', time: '10:01 AM' },
   { sender: 'other', text: 'Now that sounds better 😌💖', time: '10:02 AM' },
-  { sender: 'me', text: 'Happy Birthday Chanchal!! 🎉🎈 You deserve EVERYTHING amazing today 💕', time: '10:02 AM' },
+  { sender: 'me', text: 'Happy Birthday baby!! 🎉🎈 You deserve EVERYTHING amazing today 💕', time: '10:02 AM' },
   { sender: 'other', text: 'Awww thank youuu 🥺❤️', time: '10:03 AM' },
-  { sender: 'me', text: 'Seriously, life is just better with you in it ✨', time: '10:03 AM' },
+  { sender: 'me', text: 'Seriously, tumhare hone se life bohot simple lagti hai✨', time: '10:03 AM' },
   { sender: 'other', text: 'Stoppp you’re gonna make me emotional 😭💞', time: '10:04 AM' },
-  { sender: 'me', text: 'Good 😌 because I have more… keep scrolling 👇🎁', time: '10:04 AM' },
+  { sender: 'me', text: 'Good 😌 because mere pass aur bhi bohot kuch hai tumhare liye 👇🎁', time: '10:04 AM' },
   { sender: 'other', text: 'OMG what did you dooo 😭💕', time: '10:05 AM' }
 ];
 let chatStarted = false;
@@ -201,9 +201,9 @@ chatObserver.observe(chatSection);
 
 // ========== 7. COMPLIMENT GENERATOR ==========
 const compliments = [
-  "You have the most beautiful soul 💫",
-  "Your smile can light up the darkest days ☀️",
-  "You're one in a million, literally! 💎",
+  "You have the most beautiful soul ",
+  "Your smile can light up the darkest days ",
+  "You're best 💎",
   "The world is blessed to have you 🌍💖",
   "You make everything better just by being you ✨",
   "Your kindness is contagious 🤗",
@@ -214,7 +214,7 @@ const compliments = [
   "Your heart is pure gold 💛",
   "You're a gift to this world 🎁",
   "You make ordinary days extraordinary 🌈",
-  "Your positivity is magnetic 🧲✨",
+  "Your such a great person ✨",
   "You're the kind of person everyone deserves 💝",
   "You have a sparkle that nobody else has ✨",
   "You make people feel loved and valued 🥰",
