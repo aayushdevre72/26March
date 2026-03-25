@@ -80,7 +80,7 @@ document.querySelectorAll('.animate-on-scroll').forEach(el => {
 const birthdayMessage = `Hii thereee 🫶 aaj ke din ke liye mai kitne dino se wait kar raha tha 😭 like literally bohot dino se… pichle saal ka birthday yaad aa jata hai jab bhi birthday ke baare mein sochta hun 🥺✨ you’re so important to me babyyyyy 💖
 Aaj ka din tumhara hoga 🎂 aur mai tumhare sath hi hounga 🫂 hum bohot maza karenge, cake cut karenge  call karenge  aur many moreeee 😭💫
 Wish you the happiest birthday to my little princess 💝 I love you so much darling 💗`;
-g
+
 let messageTyped = false;
 
 function typeMessage(text, element, speed = 30) {
