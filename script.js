@@ -1,8 +1,3 @@
-/* ============================================================
-   Birthday Website for Chanchal – script.js
-   Interactive features: loader, smooth scroll, typing, chat,
-   compliment generator, confetti, music toggle
-   ============================================================ */
 
 // ========== DOM REFERENCES ==========
 const loader = document.getElementById('loader');
@@ -82,11 +77,7 @@ document.querySelectorAll('.animate-on-scroll').forEach(el => {
 });
 
 // ========== 5. TYPING ANIMATION (Message Section) ==========
-const birthdayMessage = `Happy Birthday Chanchal! 🎉🎂💖 \n
-
-On your special day, I just want to remind you how truly amazing you are and how lucky I feel to have you as my friend. You bring so much happiness, laughter, and positivity into my life✨😊 \n
-Thank you for always being there for me, for understanding me like no one else 💕🌸 You deserve all the love, success, and happiness in the world today and always 🌟💫 \n
-May this year bring you closer to your dreams and fill your life with beautiful memories 🥳🌈 Keep shining, keep smiling, and never change—you’re perfect just the way you are 💛✨`;
+const birthdayMessage = `edit`;
 
 let messageTyped = false;
 
